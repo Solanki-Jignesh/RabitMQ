@@ -1,0 +1,9 @@
+C:\Users\Jignesh\OneDrive\Desktop\CasePoint\RabitMQ\Chatapp\obj\Debug\net9.0\Chatapp.csproj.AssemblyReference.cache
+C:\Users\Jignesh\OneDrive\Desktop\CasePoint\RabitMQ\Chatapp\obj\Debug\net9.0\Chatapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jignesh\OneDrive\Desktop\CasePoint\RabitMQ\Chatapp\obj\Debug\net9.0\Chatapp.AssemblyInfoInputs.cache
+C:\Users\Jignesh\OneDrive\Desktop\CasePoint\RabitMQ\Chatapp\obj\Debug\net9.0\Chatapp.AssemblyInfo.cs
+C:\Users\Jignesh\OneDrive\Desktop\CasePoint\RabitMQ\Chatapp\obj\Debug\net9.0\Chatapp.csproj.CoreCompileInputs.cache
+C:\Users\Jignesh\OneDrive\Desktop\CasePoint\RabitMQ\Chatapp\obj\Debug\net9.0\Chatapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jignesh\OneDrive\Desktop\CasePoint\RabitMQ\Chatapp\obj\Debug\net9.0\Chatapp.RazorAssemblyInfo.cache
+C:\Users\Jignesh\OneDrive\Desktop\CasePoint\RabitMQ\Chatapp\obj\Debug\net9.0\Chatapp.RazorAssemblyInfo.cs
+C:\Users\Jignesh\OneDrive\Desktop\CasePoint\RabitMQ\Chatapp\obj\Debug\net9.0\Chatapp.sourcelink.json
